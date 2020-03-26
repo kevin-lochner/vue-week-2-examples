@@ -2,3 +2,15 @@
     max-height: 250px;
     overflow: scroll;
 }
+
+.sketching {
+    background-color: slateblue;
+}
+
+.painting {
+    background-color: goldenrod;
+}
+
+.drawing {
+    background-color: olive;
+}
